@@ -1,0 +1,696 @@
+T,P1,P2,O,T1,T2,V,C,B,A,S,I
+HDG.AS,,,,,,,,,,,
+XBBAR.MC,5.2,5.2,,,,3237,,4.34,5.6,,
+BKUS.VI,,,,,,,,,,,
+VVPS.VI,,,,,,,,,,,
+KTN.DE,,24.98,,,,174576,,24.94,24.98,,
+CLEN.VI,,,,,,,,,,,
+BEAG.VI,,,,,,,,,,,
+SO4.L,,,,,,,,,,,
+VUL.DE,,2.546,,,,78206,,2.544,2.562,,
+INTO.BR,,,,,,,,,,,
+SCHD.BR,,,,,,,,,,,
+ALIVP.BR,,,,,,,,,,,
+ALVET.PA,,,,,,,,,,,
+MTLS.BR,4.9,4.9,,,,14528,,,,Technology,Software - Application
+ESGR,,,,,,,,,,,
+RQIH.L,,,,,,,,,,,
+XCOPO.MC,1.98,1.98,,,,49,,1.94,12.0,,
+AGRI-U.TO,,,,,,,,,,,
+CHW.TO,,,,,,,,,,,
+EXRO.TO,,,,,,,,,,,
+FFUCF,0.048,0.048,,,,90590,,0.0462,0.048,,
+FTHWF,,,,,,,,,,,
+HERTF,,,,,,,,,,,
+JENGQ,,,,,,,,,,,
+KRR.TO,,,,,,,,,,,
+LICYQ,0.0088,0.0088,,,,11198,,0.06,0.067,,
+LEV.TO,,,,,,,,,,,
+RGRLF,0.2355,0.2355,,,,39698,,0.2358,0.249,,
+STLC.TO,,,,,,,,,,,
+TAIG.TO,,,,,,,,,,,
+VENI,,,,,,,,,,,
+VGCX.TO,,,,,,,,,,,
+VROYF,3.5,3.5,,,,56784,,3.47,3.49,,
+ARON.SW,,,,,,,,,,,
+THAG.SW,,,,,,,,,,,
+SPEX.SW,,,,,,,,,,,
+ROR1.VI,,,,,,,,,,,
+CARS.VI,,,,,,,,,,,
+BLS.SW,,,,,,,,,,,
+CAG.VI,,,,,,,,,,,
+OBSN.SW,,,,,,,,,,,
+DIS.DE,,,,,,,,,,,
+PBY.DE,,,,,,,,,,,
+WDI.DE,,,,,,,,,,,
+TUR1.DE,,,,,,,,,,,
+OSP2.DE,,,,,,,,,,,
+LNSX.DE,,,,,,,,,,,
+M5Z.DE,,,,,,,,,,,
+C1V0.DE,,5.3,,,,562,,5.15,5.4,,
+V3S.DE,,,,,,,,,,,
+CE2.DE,,,,,,,,,,,
+VAR1.DE,,,,,,,,,,,
+BAL.VI,,,,,,,,,,,
+O2D.DE,,,,,,,,,,,
+PGH.DE,,0.294,,,,31352,,0.3,0.32,,
+WCMK.DE,,,,,,,,,,,
+BRNK.DE,,1.898,,,,34141,,1.904,1.908,,
+COP.DE,,,,,,,,,,,
+S9I.DE,,,,,,,,,,,
+DFV.DE,,,,,,,,,,,
+M0YN.DE,,,,,,,,,,,
+EBEN.DE,,,,,,,,,,,
+VTWR.DE,,,,,,,,,,,
+EIN.DE,,85.5,,,,5070,,85.2,85.5,,
+KTEK.DE,,,,,,,,,,,
+B5A0.DE,,,,,,,,,,,
+B4B.DE,,,,,,,,,,,
+FPH.DE,,,,,,,,,,,
+NWO.DE,,,,,,,,,,,
+TC1.DE,,,,,,,,,,,
+APPS.MC,,,,,,,,,,,
+INC.MC,,,,,,,,,,,
+TR1.MC,,,,,,,,,,,
+SCUVS.MC,,,,,,,,,,,
+PRO.MC,,,,,,,,,,,
+YHTI.MC,,2.82,,,,5072,,0.0005,2.82,,
+MONI.MC,,,,,,,,,,,
+ALB.MC,,,,,,,,,,,
+CDR.MC,,,,,,,,,,,
+NHH.MC,,,,,,,,,,,
+ALMDP.PA,,,,,,,,,,,
+ALPHE.PA,,,,,,,,,,,
+ALCOR.PA,,,,,,,,,,,
+ALCAP.PA,,,,,,,,,,,
+NAVYA.PA,,,,,,,,,,,
+MLVSY.PA,,,,,,,,,,,
+MLCAS.PA,,,,,,,,,,,
+EXN.PA,,,,,,,,,,,
+PHXM.PA,,,,,,,,,,,
+AV-B.L,,,,,,,,,,,
+RGP.L,,,,,,,,,,,
+UBG.L,,,,,,,,,,,
+GACA.L,,,,,,,,,,,
+NTEA.L,,133.0,,,,46536,,132.0,134.0,,
+ZYT.L,,,,,,,,,,,
+SIXH.L,,,,,,,,,,,
+POG.L,,,,,,,,,,,
+HRN.L,,,,,,,,,,,
+SNG.L,,,,,,,,,,,
+BLVN.L,,,,,,,,,,,
+RAV.L,,,,,,,,,,,
+PFC.L,,,,,,,,,,,
+PTY.L,,,,,,,,,,,
+INL.L,,,,,,,,,,,
+ETX.L,,,,,,,,,,,
+GMAA.L,,,,,,,,,,,
+NTQ.L,,,,,,,,,,,
+SDRY.L,,,,,,,,,,,
+NMC.L,,,,,,,,,,,
+IPEL.L,,,,,,,,,,,
+BIOM.L,,,,,,,,,,,
+CRV.L,,,,,,,,,,,
+MRL.L,,,,,,,,,,,
+INX.L,,,,,,,,,,,
+DEST.L,,,,,,,,,,,
+CEL.L,,,,,,,,,,,
+IDS.L,,,,,,,,,,,
+RAI.L,,,,,,,,,,,
+IOG.L,,,,,,,,,,,
+RENE.L,,,,,,,,,,,
+RBGP.L,,,,,,,,,,,
+TWD.L,,,,,,,,,,,
+PIER.L,,,,,,,,,,,
+BMK.L,,,,,,,,,,,
+SDX.L,,,,,,,,,,,
+AGFX.L,,,,,,,,,,,
+SND.L,,,,,,,,,,,
+NWOR.L,,,,,,,,,,,
+SCHO.L,,,,,,,,,,,
+ASTR.L,,,,,,,,,,,
+KPC.L,,,,,,,,,,,
+SBI.L,,,,,,,,,,,
+ZNT.L,,,,,,,,,,,
+4GBL.L,,,,,,,,,,,
+NGHT.L,,,,,,,,,,,
+RNEP.L,16.0,16.0,,,,60232,,15.0,17.0,,
+ALM.L,,,,,,,,,,,
+BRSD.L,,,,,,,,,,,
+BRSD.L,,,,,,,,,,,
+CMO.L,,,,,,,,,,,
+TENT.L,,,,,,,,,,,
+VCAP.L,,,,,,,,,,,
+SIV.L,,,,,,,,,,,
+MEN.L,,,,,,,,,,,
+MORE.L,,,,,,,,,,,
+OCTP.L,,,,,,,,,,,
+DISP.L,,,,,,,,,,,
+CCAP.L,,,,,,,,,,,
+AEEE.L,,,,,,,,,,,
+PODP.L,,,,,,,,,,,
+BDRX.L,,,,,,,,,,,
+EPIC.L,,,,,,,,,,,
+MEAL.L,,,,,,,,,,,
+AMTE.L,,,,,,,,,,,
+BVX.L,,,,,,,,,,,
+ETP.L,,,,,,,,,,,
+AQSG.L,,,,,,,,,,,
+C4XD.L,,,,,,,,,,,
+HEIQ.L,,,,,,,,,,,
+ALGW.L,,,,,,,,,,,
+SPO.L,,,,,,,,,,,
+VOG.L,,,,,,,,,,,
+RTOP.L,,,,,,,,,,,
+HOT.L,,,,,,,,,,,
+REDX.L,,,,,,,,,,,
+GVP.L,,,,,,,,,,,
+MINI.L,,,,,,,,,,,
+DLG.L,,,,,,,,,,,
+WTG.L,,,,,,,,,,,
+LOOP.L,,,,,,,,,,,
+SENS.L,,,,,,,,,,,
+IGLD.L,,,,,,,,,,,
+JOUL.L,,,,,,,,,,,
+GYG.L,,,,,,,,,,,
+INCE.L,,,,,,,,,,,
+BMN.L,,,,,,,,,,,
+IBPO.L,,,,,,,,,,,
+CIP.L,,,,,,,,,,,
+SCRF.L,,,,,,,,,,,
+TORG.L,53.5,53.5,,,,,,51.0,56.0,,
+APQ.L,,,,,,,,,,,
+KRX.DE,72.6,72.6,,,,1349,,71.5,73.95,,
+ORM.L,,,,,,,,,,,
+BSD.L,,,,,,,,,,,
+SATX,,,,,,,,,,,
+SECG.L,,,,,,,,,,,
+SENX.L,,,,,,,,,,,
+IX.L,,,,,,,,,,,
+CRC.L,,,,,,,,,,,
+BION.L,,,,,,,,,,,
+QUIZ.L,,,,,,,,,,,
+NTO.DE,,,,,,,,,,,
+AFJKU,64.33,64.33,,,,200,,20.04,,Financial Services,Shell Companies
+ALOR,,,,,,,,,,,
+ADAL,,,,,,,,,,,
+AFAR,,,,,,,,,,,
+BIOS,,,,,,,,,,,
+BCSA,,,,,,,,,,,
+CAIF,,,,,,,,,,,
+CNG.L,,,,,,,,,,,
+COOL,,,,,,,,,,,
+CDAQ,,,,,,,,,,,
+CPTK,,,,,,,,,,,
+DPCS,,,,,,,,,,,
+HORI,,,,,,,,,,,
+FCRM.L,,,,,,,,,,,
+GSQB,,,,,,,,,,,
+PRLH,11.32,11.32,,,,,,,,Financial Services,Shell Companies
+ISRLF,12.1,12.1,,,,720,,12.2,14.03,,
+LEK.L,,,,,,,,,,,
+LMDXF,,,,,,,,,,,
+MCAA,,,,,,,,,,,
+NRAC,,,,,,,,,,,
+PME,,,,,,,,,,,
+ROSS,,,,,,,,,,,
+SCUA,,,,,,,,,,,
+SMJF,5.08,5.08,,,,609840,,4.95,5.14,,
+SHAP,,,,,,,,,,,
+TMPM,,,,,,,,,,,
+BBGI.L,,,,,,,,,,,
+SUSE.DE,,,,,,,,,,,
+BAI.AS,,,,,,,,,,,
+IMPPP,25.716,25.716,,,,510,,,,Energy,Oil & Gas Midstream
+BOLS.AS,,,,,,,,,,,
+DPEU.L,,,,,,,,,,,
+IVG.DE,,,,,,,,,,,
+D7G.DE,,,,,,,,,,,
+CFN.LS,,,,,,,,,,,
+INA.LS,,,,,,,,,,,
+VRV.DE,,1.958,,,,191141,,1.984,1.99,,
+AXDXQ,,,,,,,,,,,
+ACGN,,,,,,,,,,,
+ACHL,,,,,,,,,,,
+MKULQ,,,,,,,,,,,
+AHI,,,,,,,,,,,
+GMFI,,,,,,,,,,,
+AHPIQ,,,,,,,,,,,
+FREHY,,0.0001,,,,16611,,,,,
+APTX,,,,,,,,,,,
+ARAV,,,,,,,,,,,
+AFAC,,,,,,,,,,,
+ASLN,,,,,,,,,,,
+ASTR,0.539,0.539,,,,,,,,Industrials,Aerospace & Defense
+AUDAQ,,,,,,,,,,,
+AVGR.L,,,,,,,,,,,
+AVGR,,,,,,,,,,,
+AXLA,,,,,,,,,,,
+AZEK,,,,,,,,,,,
+PNSTQ,,1e-06,,,,106210,,0.0046,0.0063,,
+BWL-A,,,,,,,,,,,
+BOXDQ,,,,,,,,,,,
+BRFS,,,,,,,,,,,
+FRTX,,,,,,,,,,,
+BGXXQ,0.0007,0.0007,,,,159753,,0.0105,0.016,,
+BRAC,11.7,11.7,,,,,,,,Financial Services,Shell Companies
+BFICQ,,,,,,,,,,,
+GOEVQ,0.01,0.01,,,,19193,,0.116,0.12,,
+CGRNQ,,,,,,,,,,,
+CYADY,,,,,,,,,,,
+CBBT,,,,,,,,,,,
+JRJCY,,,,,,,,,,,
+CXDC,,,,,,,,,,,
+CRXTQ,,,,,,,,,,,
+CLIS,,,,,,,,,,,
+CDAKQ,,,,,,,,,,,
+TCFC,,,,,,,,,,,
+CPPTL,10.909,10.909,,,,209165,,10.85,11.07,,
+LUXHQ,,1e-06,,,,6225,,,,,
+DWOG,,,,,,,,,,,
+DM,,,,,,,,,,,
+DZSIQ,,0.0001,,,,85097,,0.005,0.0224,,
+MOHOY,,,,,,,,,,,
+EIGRQ,,,,,,,,,,,
+ENFN,,,,,,,,,,,
+ENGCQ,,,,,,,,,,,
+ENPL.IL,,,,,,,,,,,
+ETLN.IL,,,,,,,,,,,
+FNHCQ,,,,,,,,,,,
+FSRNQ,,,,,,,,,,,
+FP.IL,,,,,,,,,,,
+FTMRQ,,,,,,,,,,,
+GTTNQ,,,,,,,,,,,
+GAXYQ,,,,,,,,,,,
+OGZD.L,,,,,,,,,,,
+OGZD.VI,,,,,,,,,,,
+GZPFY,,,,,,,,,,,
+GENE,,,,,,,,,,,
+GLTR.IL,,,,,,,,,,,
+GLPR.L,,,,,,,,,,,
+GHSI,3.25,3.25,,,,,,,,Healthcare,Drug Manufacturers - Specialty & Generic
+HMSG.IL,,,,,,,,,,,
+HCDIQ,,,,,,,,,,,
+HHR,,,,,,,,,,,
+HMTV,,,,,,,,,,,
+HPLT,,,,,,,,,,,
+HUDA,,,,,,,,,,,
+HGENQ,,,,,,,,,,,
+HYZN,,,,,,,,,,,
+AILEQ,0.0001,0.0001,,,,12622,,0.26,0.28,,
+IMBIQ,,,,,,,,,,,
+IOGPQ,,,,,,,,,,,
+IINX,,,,,,,,,,,
+MONDQ,,1e-06,,,,210551,,,,,
+JNCE,,,,,,,,,,,
+KLR,,,,,,,,,,,
+KANT,,,,,,,,,,,
+KWBT,,,,,,,,,,,
+LNTA.L,,,,,,,,,,,
+LRFC,,,,,,,,,,,
+LLFLQ,,,,,,,,,,,
+MDMG.L,,,,,,,,,,,
+MHPC.IL,8.02,8.02,,,,17235,,8.2,8.26,Consumer Defensive,Farm Products
+NILSY,,,,,,,,,,,
+VKCO.L,,,,,,,,,,,
+MRIN,,,,,,,,,,,
+MKFG,,,,,,,,,,,
+MTL-P,,,,,,,,,,,
+MTL,,,,,,,,,,,
+XYLO,,,,,,,,,,,
+MACK,,,,,,,,,,,
+MTCR,,,,,,,,,,,
+MBT,,,,,,,,,,,
+MODV,,0.4319,,,,,,,,,
+NBEVQ,,,,,,,,,,,
+NVGI,,,,,,,,,,,
+NOGNQ,,,,,,,,,,,
+JWN,,,,,,,,,,,
+NSTB,,,,,,,,,,,
+OKEY.IL,,,,,,,,,,,
+OPITQ,0.01,0.01,,,,396184,,0.0132,0.014,,
+ROSN.L,,,,,,,,,,,
+ONCT,,,,,,,,,,,
+AIU,,,,,,,,,,,
+OPNT,,,,,,,,,,,
+OIGBQ,,,,,,,,,,,
+OZON,,,,,,,,,,,
+PPHP,,,,,,,,,,,
+PDLI,,,,,,,,,,,
+LUKOY,,,,,,,,,,,
+PPBI,,,,,,,,,,,
+PRTK,,,,,,,,,,,
+IDICQ,,,,,,,,,,,
+PWOD,,,,,,,,,,,
+PSTH,,,,,,,,,,,
+PFSW,,,,,,,,,,,
+DNK,,,,,,,,,,,
+PLL,,,,,,,,,,,
+PLXPQ,,,,,,,,,,,
+RGTPQ,,,,,,,,,,,
+OPYGY,,,,,,,,,,,
+BIORQ,,0.0001,,,,1126,,0.25,0.3,,
+NEWYY,,,,,,,,,,,
+AGRO.IL,,,,,,,,,,,
+RHEPZ,1.9,1.9,,,,490,,1.81,2.05,,
+RACY,,,,,,,,,,,
+RCM,,,,,,,,,,,
+ROSYY,,,,,,,,,,,
+RUBY,,,,,,,,,,,
+SAL,,,,,,,,,,,
+RDUS,,,,,,,,,,,
+SAMA,,,,,,,,,,,
+SCMT,,,,,,,,,,,
+SQBGQ,,,,,,,,,,,
+PIXY,,,,,,,,,,,
+SFTGQ,,,,,,,,,,,
+SUAC,,,,,,,,,,,
+CIAN,,,,,,,,,,,
+STAF,,,,,,,,,,,
+SBT,,,,,,,,,,,
+SSY,,,,,,,,,,,
+SPWRQ,,,,,,,,,,,
+SUWN,,,,,,,,,,,
+TCS.L,,,,,,509267,,,,,
+TFFP,,,,,,,,,,,
+BYU,,,,,,,,,,,
+TRNX,,,,,,,,,,,
+TRNFQ,,,,,,,,,,,
+TTM,,,,,,,,,,,
+TAUG,,,,,,,,,,,
+TETC,,,,,,,,,,,
+TLGTQ,,,,,,,,,,,
+THRD,,,,,,,,,,,
+TOGL,,,,,,,,,,,
+TCON,,,,,,,,,,,
+ADER,,,,,,,,,,,
+UNAM,,,,,,,,,,,
+VERV,,,,,,,,,,,
+VIGL,,,,,,,,,,,
+WRNT,,,,,,,,,,,
+WEIDY,,,,,,,,,,,
+WLMSQ,,,,,,,,,,,
+WBEVQ,,,,,,,,,,,
+FIVE.IL,,,,,,,,,,,
+XIN,,,,,,,,,,,
+YEWB,,,,,,,,,,,
+YGYI,,,,,,,,,,,
+ZSANQ,,,,,,,,,,,
+AAA.L,,,,,,,,,,,
+ATMA.L,,,,,,,,,,,
+CGH.L,,,,,,,,,,,
+MIL.L,,,,,,,,,,,
+SGN.L,,,,,,,,,,,
+SEELQ,1e-06,1e-06,,,,1826,,0.15,0.3,Healthcare,Biotechnology
+BHILQ,1e-05,1e-05,,,,,61,0.0102,0.032,Basic Materials,Agricultural Inputs
+AAMCF,0.37,0.37,,,,,94,1.49,1.7,Consumer Cyclical,Auto Parts
+IMVIF,1e-05,1e-05,,,,,117,,,Healthcare,Biotechnology
+ASAPQ,1e-05,1e-05,,,,,135,0.006,0.0082,Consumer Cyclical,Internet Retail
+MDVLQ,0.0001,0.0001,,,,,161,,,Healthcare,Pharmaceutical Retailers
+AWIN,0.0002,0.0002,,,,,184,0.1001,0.13,Technology,Scientific & Technical Instruments
+HYREQ,1e-05,1e-05,,,,,321,,,Industrials,Rental & Leasing Services
+JADE.L,,0.0115,,,,,273,,,,
+BXRXQ,1e-05,1e-05,,,,,435,0.0042,0.0081,Healthcare,Biotechnology
+NEPTF,0.0001,0.0001,,,,,453,0.0151,0.023,Healthcare,Drug Manufacturers - Specialty & Generic
+YVRLF,0.0001,0.0001,,,,,482,,,Communication Services,Electronic Gaming & Multimedia
+GNCAQ,1e-05,1e-05,,,,,587,,,Healthcare,Biotechnology
+ONCSQ,0.0001,0.0001,,,,,596,,,Healthcare,Biotechnology
+ATHXQ,1e-05,1e-05,,,,,617,0.002,0.003,Healthcare,Biotechnology
+STMH,0.0001,0.0001,,,,,666,,,Healthcare,Drug Manufacturers - Specialty & Generic
+ALCE,0.001,0.001,,,,,724,0.0325,1.49,Utilities,Utilities - Renewable
+BCE.L,0.0039,0.0039,,,,,721,0.0038,,Energy,Oil & Gas E&P
+RVLPQ,1e-05,1e-05,,,,,1114,,,Healthcare,Biotechnology
+UNIR,0.0003,0.0003,,,,,1120,,,Consumer Cyclical,Textile Manufacturing
+UFABQ,0.0001,0.0001,,,,,1173,,,Consumer Cyclical,Auto Parts
+CNTTQ,1e-05,1e-05,,,,,1412,,,Healthcare,Drug Manufacturers - Specialty & Generic
+ALFIQ,0.0001,0.0001,,,,,1609,,,Technology,Software - Infrastructure
+VIDE,0.0003,0.0003,,,,,1763,0.8,0.948,Technology,Computer Hardware
+GNRSQ,0.0001,0.0001,,,,,1768,,,Healthcare,Drug Manufacturers - Specialty & Generic
+ETAOF,0.0004,0.0004,,,,,2048,0.0357,0.1695,Healthcare,Health Information Services
+OREAF,1e-05,1e-05,,,,,2271,,,Basic Materials,Gold
+MCLDF,0.0001,0.0001,,,,,2324,,,Technology,Software - Application
+CMRA,0.0001,0.0001,,,,,3073,0.0222,0.0305,Healthcare,Biotechnology
+CSSEQ,0.0001,0.0001,,,,,3245,0.0068,0.0077,Communication Services,Entertainment
+NUVOQ,0.0001,0.0001,,,,,3326,0.0009,0.0082,Healthcare,Medical Devices
+RENO,0.0001,0.0001,,,,,3519,,,Industrials,Pollution & Treatment Controls
+HWIN,0.0001,0.0001,,,,,3779,,,Consumer Defensive,Grocery Stores
+SLHGF,0.0001,0.0001,,,,,3982,,,Healthcare,Medical Care Facilities
+BANT,0.0001,0.0001,,,,,5350,0.0002,0.0003,Industrials,Aerospace & Defense
+SUNWQ,0.0001,0.0001,,,,,5678,0.006,0.0075,Technology,Solar
+AMCT,0.0001,0.0001,,,,,5913,,,Industrials,Consulting Services
+CHHE,0.0001,0.0001,,,,,6553,0.1799,0.6366,Healthcare,Drug Manufacturers - Specialty & Generic
+CHALF,0.0001,0.0001,,,,,6659,,,Healthcare,Drug Manufacturers - Specialty & Generic
+SHRG,0.023,0.023,,,,,7121,1.0,1.9,Consumer Defensive,Packaged Foods
+BIOLQ,0.0002,0.0002,,,,,7319,0.0091,0.011,Healthcare,Medical Devices
+GLSHQ,0.0001,0.0001,,,,,7333,,,Healthcare,Biotechnology
+STIXF,0.0001,0.0001,,,,424,7844,0.0201,0.037,Technology,Software - Application
+TTCFQ,0.0001,0.0001,,,,,8365,,,Consumer Defensive,Packaged Foods
+RCAR,0.0001,0.0001,,,,,8735,,,Healthcare,Biotechnology
+MJARF,0.0001,0.0001,,,,,9014,,,Healthcare,Drug Manufacturers - Specialty & Generic
+INFIQ,0.0001,0.0001,,,,,9076,,,Healthcare,Biotechnology
+EGOXF,0.0001,0.0001,,,,,9438,0.0027,0.0045,Consumer Cyclical,Auto Manufacturers
+INLB,0.0001,0.0001,,,,,10236,,,Healthcare,Drug Manufacturers - Specialty & Generic
+HCANF,0.0001,0.0001,,,,,15080,,,Healthcare,Drug Manufacturers - Specialty & Generic
+BMMJ,0.0001,0.0001,,,,,15904,0.0065,0.009,Healthcare,Drug Manufacturers - Specialty & Generic
+BZAMF,,,,,,,,,,,
+GRAM,0.0001,0.0001,,,,,28767,0.0257,0.13,Consumer Defensive,Tobacco
+XDSL,0.0002,0.0002,,,,,33598,,,Technology,Solar
+PRST,0.0001,0.0001,,,,,41851,0.0032,0.0034,Technology,Software - Application
+KLDI,4e-05,4e-05,,,,,45326,0.0131,0.02,Technology,Software - Application
+CRYM,0.0002,0.0002,,,,,47431,0.0219,0.0225,Healthcare,Drug Manufacturers - Specialty & Generic
+SLNAF,0.0001,0.0001,,,,,54366,0.0049,0.005,Consumer Cyclical,Resorts & Casinos
+FFNTF,5e-05,5e-05,,,,,54468,0.0008,0.0015,Healthcare,Drug Manufacturers - Specialty & Generic
+PRCX,0.0001,0.0001,,,,,104987,,,Financial Services,Asset Management
+AKTSQ,0.0009,,,,,,139131,0.0037,0.0048,Technology,Communication Equipment
+TLCC,0.0006,0.0006,,,,,155456,0.0003,0.0005,Consumer Defensive,Packaged Foods
+CHL.L,2.25,2.25,,,,,118444,,,Financial Services,Shell Companies
+SHWZ,0.0022,0.0022,,,,,176525,0.22,0.23,Healthcare,Pharmaceutical Retailers
+IIP.L,,0.02,,,,,136417,,,,
+LFLH,,,,,,,,,,,
+PLTYF,0.02,0.02,,,,,258762,0.0325,0.6989,Financial Services,Shell Companies
+PETXQ,0.00588,0.00588,,,,,302747,0.005,0.0098,Technology,Software - Application
+VIRX,0.00978,0.00978,,,,,388699,0.0081,0.0109,Healthcare,Biotechnology
+ALGBE.PA,0.0185,0.0185,,,,,335375,,,Basic Materials,Specialty Chemicals
+MER.VI,0.9,0.9,,,,,346716,,,Communication Services,Internet Content & Information
+KACLF,0.13,0.13,,,,,411441,0.121,0.5,Financial Services,Shell Companies
+PACS.L,0.45,0.45,,,,,323230,,,Consumer Defensive,Farm Products
+VGFCQ,0.005,0.005,,,,,670231,,,Consumer Defensive,Packaged Foods
+FTCHQ,0.0018,0.0018,,,,,711838,,,Consumer Cyclical,Internet Retail
+AC8.L,80.0,80.0,,,,,600000,70.0,90.0,Financial Services,Shell Companies
+VRS.L,0.01,0.01,,,,,600996,0.007,0.008,Basic Materials,Specialty Chemicals
+PRIS.L,0.45,0.45,,,,,723258,0.4,,Financial Services,Shell Companies
+ZED.L,0.205,0.205,,,,,761526,0.2,,Basic Materials,Specialty Chemicals
+NZI.L,1.35,1.35,,,,,819450,,,Utilities,Utilities - Renewable
+ALAVE.PA,0.0008,0.0008,,,,,983827,,,Financial Services,Asset Management
+H5E.DE,,0.26,,,,,1039999,,,,
+OVB.L,1.15,1.15,,,,,937983,1.0,,Healthcare,Biotechnology
+KIBO.L,0.0065,0.0065,,,,,956488,0.006,0.007,Utilities,Utilities - Renewable
+EQOSQ,,0.0001,,,,,1418150,,,,
+REDC.L,11.0,11.0,,,,,1100000,10.0,12.0,Financial Services,Shell Companies
+ALNMR.PA,0.23,0.23,,,,,1338348,,,Technology,Software - Application
+CMGR,0.0001,0.0001,,,,,1637218,0.0001,0.0001,Communication Services,Advertising Agencies
+HELD.L,0.95,0.95,,,,,1395621,,,Healthcare,Drug Manufacturers - Specialty & Generic
+AJAX.L,,3.0,,,,,1405875,2.5,3.5,,
+KNB.L,0.225,0.225,,,,,1422962,0.2,,Healthcare,Medical Care Facilities
+MODE.L,1.45,1.45,,,,,1519473,,,Technology,Software - Infrastructure
+MLAA.PA,1.8,1.8,,,,32,1800000,,,Consumer Cyclical,Auto & Truck Dealerships
+MLUMG.PA,1.71,1.71,,,,,2122580,7.75,8.05,Industrials,Staffing & Employment Services
+RAL.PA,,0.0441,,,,,2334001,,,,
+ELEG.L,0.075,0.075,,,,,2062494,0.07,,Financial Services,Shell Companies
+SPDI.L,1.75,1.75,,,,,2260850,1.5,2.0,Real Estate,Real Estate Services
+PNPL.L,2.74,2.74,,,,,2283321,,,Utilities,Utilities - Renewable
+ZAIM.L,4.5,4.5,,,,,2310638,,,Financial Services,Credit Services
+XLM.L,6.58,6.58,,,,,2479600,6.0,,,
+TM1.L,0.09,0.09,,,,,2514955,0.08,0.1,Basic Materials,Other Industrial Metals & Mining
+SEFA.L,0.125,0.125,,,,,2908070,,,Basic Materials,Other Precious Metals & Mining
+BELL.L,,,,,,,,,,,
+RNVA,0.0001,0.0001,,,,,4305132,0.0001,0.0001,Healthcare,Diagnostics & Research
+MLNEU.BR,11.3,11.3,,,,,4104725,,,Real Estate,Real Estate Services
+BPPTU,0.2253,0.2253,,,,,4821420,0.2252,0.23,Energy,Oil & Gas Midstream
+WBI.L,,,,,,,,,,,
+BKUH,0.02,0.02,,,,,6026059,0.152,0.75,Healthcare,Drug Manufacturers - Specialty & Generic
+TRX.L,7.25,,,,,,5164502,,,Healthcare,Biotechnology
+EEP.MC,,0.54,,,,,6215133,,,,
+ALCAR.PA,0.099,0.099,,,,,6365090,,,Healthcare,Medical Devices
+VAST.L,0.12,0.12,,,,,5997090,,0.14,Basic Materials,Other Industrial Metals & Mining
+OST,1.695,1.695,,,,,8978754,,,Technology,Electronic Components
+AOGO,2.0,2.0,,,,,9683868,11.25,13.95,Financial Services,Shell Companies
+MED.MC,0.69,0.69,,,,,8917974,,,,
+MAQC,2.14,2.14,,,,,11170651,11.34,11.8,Financial Services,Shell Companies
+NUMI.TO,0.05,0.05,,,,,16027581,0.035,0.035,Healthcare,Medical Care Facilities
+TGR.L,6.25,6.25,,,,,8666339,6.0,,Basic Materials,Other Industrial Metals & Mining
+MIO.MC,1.77,1.77,,,,,11519622,1.71,1.8,Communication Services,Advertising Agencies
+PPP.L,9.55,9.55,,,,,10151562,9.2,,Energy,Oil & Gas E&P
+AIXC,2.323,2.323,,,,57440,,2.32,2.4,Technology,Software - Infrastructure
+EVCO,2.0,2.0,,,,,14316508,,,Financial Services,Shell Companies
+ANGS.L,0.24,0.24,,,,,11968544,,,Energy,Oil & Gas E&P
+450.L,2.1,2.1,,,,,14087500,2.0,,Financial Services,Asset Management
+ACMTA,26.0,26.0,,,,,20048210,20.02,46.39,Financial Services,Insurance - Specialty
+AQUC,12.1,12.1,,,,,20945670,10.92,30.0,Financial Services,Shell Companies
+DYSL,1.26,1.26,,,,,22198900,,,Technology,Scientific & Technical Instruments
+GDST,10.2,10.2,,,,,23350318,10.25,11.5,Financial Services,Shell Companies
+BOWN,9.19,9.19,,,,,27518260,,,Financial Services,Shell Companies
+EMCGF,11.385,11.385,,,,,27577670,11.4,11.99,Financial Services,Shell Companies
+VNTRF,35.1,35.1,,,,,27577788,760.0,800.0,Basic Materials,Specialty Chemicals
+CLRCF,12.1,12.1,,,,,30677252,12.06,19.0,Financial Services,Shell Companies
+MOP.BR,286.0,286.0,,,,,27087632,,,Financial Services,Asset Management
+BCART.BR,,0.29,,,,,27235614,,,,
+DYCQ,11.18,11.18,,,,,32370740,13.0,10.8,Financial Services,Shell Companies
+INTE,10.4,10.4,,,,,33671768,10.41,13.0,Financial Services,Shell Companies
+MCAG,12.29,12.29,,,,,35309452,11.8,13.26,Financial Services,Shell Companies
+MLBMD.PA,,6.55,,,,,30780612,,,,
+CNE.TO,1.53,,,,,,52203580,0.6,0.6,Energy,Oil & Gas E&P
+CCTSF,11.79,11.79,,,,,37901656,11.02,19.0,Financial Services,Shell Companies
+ATMC,14.9,14.9,,,,,38019392,,11.7,Financial Services,Shell Companies
+ISE.MC,,0.574,,,,,33111936,,0.6,,
+MSSAF,11.79,11.79,,,,,38500516,11.85,15.0,Financial Services,Shell Companies
+WINV,12.55,12.55,,,,,38842716,12.68,14.47,Financial Services,Shell Companies
+NBST,10.02,10.02,,,,,38969076,11.0,14.0,Financial Services,Shell Companies
+TETEF,12.08,12.08,,,,,41294524,12.24,50.0,Financial Services,Shell Companies
+JANL,37.0,37.0,,,,10,43895096,32.0,38.98,Industrials,Integrated Freight & Logistics
+FORL,11.75,11.75,,,,,47918308,11.53,11.99,Financial Services,Shell Companies
+HCMC,0.0001,0.0001,,,,,48126660,0.0001,0.0001,Consumer Defensive,Tobacco
+SDM,1.85,1.85,,,,,49441252,1.6,2.0,Communication Services,Advertising Agencies
+WELNF,12.21,12.21,,,,,49578472,12.5,12.75,Financial Services,Shell Companies
+TGAAF,9.12,9.12,,,,,49769316,9.21,11.49,Financial Services,Shell Companies
+AKOM,2.58,2.58,,,,,50668228,0.041,,Technology,Communication Equipment
+GGAAF,8.0,8.0,,,,,50709096,0.35,4.99,Financial Services,Shell Companies
+FTII,12.02,12.02,,,,,51565332,12.03,12.95,Financial Services,Shell Companies
+ODTC,22005.0,22005.0,,,,,7833780,21600.0,28500.0,Financial Services,Shell Companies
+ALSAF,17.5,17.5,,,,,56484120,13.45,200.0,Financial Services,Shell Companies
+APXIF,11.99,11.99,,,,,57942344,11.9,11.99,Financial Services,Shell Companies
+IVCBF,6.0,6.0,,,,,63903120,11.66,12.99,Financial Services,Shell Companies
+ASCBF,11.99,11.99,,,,,64069692,10.32,15.0,Financial Services,Shell Companies
+MLIFS.PA,7.0,7.0,,,,,56154288,,,Consumer Cyclical,Leisure
+SWSS,10.7,10.7,,,,,49897564,10.5,10.7,Financial Services,Shell Companies
+HAIAF,12.74,12.74,,,,,70619248,12.21,13.49,Financial Services,Shell Companies
+VILN.SW,575.0,575.0,,,,1,60030000,570.0,610.0,Consumer Defensive,Grocery Stores
+CBRRF,12.08,12.08,,,,,74930800,11.86,14.0,Financial Services,Shell Companies
+AEAE,12.01,12.01,,,,,75257024,12.01,19.0,Financial Services,Shell Companies
+IVCAF,12.0,12.0,,,,,77937264,11.51,12.25,Financial Services,Shell Companies
+WBBW,36.005,36.005,,,,,78796944,,,Financial Services,Banks - Regional
+CMCAF,11.4,11.4,,,,,79363728,11.08,11.18,Financial Services,Shell Companies
+CNDA,11.42,11.42,,,,,80065480,10.69,15.0,Financial Services,Shell Companies
+FBSI,33.57,33.57,,,,,81515512,31.0,33.44,Financial Services,Banks - Regional
+LTH.VI,234.0,234.0,,,,,70200000,,,Consumer Cyclical,Textile Manufacturing
+PUCK,11.0,11.0,,,,,82051936,12.3,13.99,Financial Services,Shell Companies
+UIGC,,,,,,,,,,,
+IXAQF,12.06,12.06,,,,,88766112,11.2,15.0,Financial Services,Shell Companies
+ATEK,9.02,9.02,,,,,88936184,1.15,19.0,Financial Services,Shell Companies
+BYNO,12.49,12.49,,,,,89013016,12.24,12.45,Financial Services,Shell Companies
+PLMJF,11.55,11.55,,,,,92053336,10.6,20.0,Financial Services,Shell Companies
+PPYA,11.01,11.01,,,,,98237792,11.0,11.5,Financial Services,Shell Companies
+HOME.L,9.53,9.53,,,,1200,75341368,,,Real Estate,REIT - Residential
+OIBRQ,0.0006,0.0006,,,,10,97098,,,Communication Services,Telecom Services
+UBS.MC,0.0021,0.0021,,,,,94754288,,,Industrials,Engineering & Construction
+ORXOY,2.6,2.6,,,,,114614352,3.13,3.8,Healthcare,Drug Manufacturers - Specialty & Generic
+ZLSSF,10.5,10.5,,,,,126052056,10.95,11.0,Financial Services,Shell Companies
+COBH.BR,1500.0,1500.0,,,,8,112500000,,,Consumer Defensive,Beverages - Brewers
+BKUT,521.0,521.0,,,,,130250000,536.0,625.0,Financial Services,Banks - Regional
+SPSC.L,205.0,205.0,,,,,98975408,160.0,250.0,Technology,Software - Application
+PHYTF,11.81,11.81,,,,,133712376,11.83,11.88,Financial Services,Shell Companies
+QEV.AS,6.8,6.8,,,,,119000000,,,Consumer Cyclical,Auto Manufacturers
+MHN.L,,,,,,,,,,,
+SLAMF,12.0,12.0,,,,,173868640,11.58,11.89,Financial Services,Shell Companies
+INSE.L,,,,,,,,,,,
+QVCGB,25.0,25.0,,,,,201711696,22.3,40.0,Consumer Cyclical,Internet Retail
+MAGH,6.76,6.76,,,,,225446000,6.68,7.0,Industrials,Engineering & Construction
+BSC.L,51.5,51.5,,,,1,177652464,50.5,52.5,,
+CRWC.L,37.1,37.1,,,,14,206042016,36.1,38.1,,
+EFTY,15.02,15.02,,,,,302052224,15.06,15.05,Industrials,Consulting Services
+ARTNB,33.51,33.51,,,,,345593472,33.51,36.98,Utilities,Utilities - Regulated Water
+QIWI,,5.67,,,,,355582720,,,,
+BGLF.L,,,,,,,,,,,
+SBOEY,3.0,3.0,,,,,488722624,3.5,3.72,Energy,Oil & Gas Equipment & Services
+MCTA,29.355,29.355,,,,,504260192,29.01,28.2,Healthcare,Medical Care Facilities
+NPACY,1.05,1.05,,,,,533621152,1.05,1.59,Technology,Software - Application
+WACMY,4.41,4.41,,,,,593366016,5.01,5.6,Technology,Computer Hardware
+TYOBY,6.85,6.85,,,,,604480704,8.02,8.97,Basic Materials,Specialty Chemicals
+YITYY,1.35,1.35,,,,,622744384,1.77,2.1,Industrials,Engineering & Construction
+SEMUF,46.0,46.0,,,,,689732992,,,Industrials,Marine Shipping
+BOZTY,11.585,11.585,,,,,796273472,10.15,11.55,Consumer Cyclical,Apparel Retail
+SLOIY,13.75,13.75,,,,,981256896,14.99,17.92,Technology,Semiconductor Equipment & Materials
+SHAZD,92.5,92.5,,,,,1061743872,,,Technology,Information Technology Services
+MOPF.BR,9900.0,9900.0,,,,,937648768,,,Financial Services,Asset Management
+CSNVY,21.2,21.2,,,,,1255207552,21.93,23.17,Basic Materials,Specialty Chemicals
+TKCBY,25.1,25.1,,,,,1339756032,22.9,27.05,Basic Materials,Specialty Chemicals
+YGMP.MC,65.0,65.0,,,,,1242872576,0.0005,65.0,Real Estate,REIT - Diversified
+SPT.L,,,,,,,,,,,
+EVR.L,80.89,80.89,,,,,1179934336,,,Basic Materials,Steel
+HINOY,27.76,27.76,,,,,1593547264,23.88,28.54,Industrials,Farm & Heavy Construction Machinery
+NPKYY,10.23,10.23,,,,,1626788224,10.0,11.45,Basic Materials,Chemicals
+RYHTY,8.31,8.31,,,,,1788606720,8.01,8.82,Healthcare,Medical Care Facilities
+TKYMY,12.97,12.97,,,,,1971840512,13.38,13.75,Basic Materials,Specialty Chemicals
+PKCOY,12.81,12.81,,,,,2186270720,13.16,13.6,Industrials,Infrastructure Operations
+TGOSY,37.32,37.32,,,,,2374560768,54.36,55.91,Consumer Cyclical,Auto Parts
+NIFCY,13.23,13.23,,,,,2469609472,12.36,17.17,Consumer Cyclical,Auto Parts
+HHULY,12.39,12.39,,,,,2717881856,10.79,14.07,Industrials,Marine Shipping
+JTTRY,14.215,14.215,,,,,2846265344,13.29,14.28,Industrials,Airports & Air Services
+NCHEY,12.1,12.1,,,,,3032484608,10.64,13.23,Consumer Defensive,Packaged Foods
+KURRY,29.85,29.85,,,,,3122694144,29.02,31.8,Basic Materials,Chemicals
+GTMEY,23.12,23.12,,,,,3340112384,22.64,27.64,Communication Services,Telecom Services
+ANIOY,7.65,7.65,,,,60,3813426176,7.48,7.95,Basic Materials,Steel
+DNIYY,37.55,37.55,,,,,3411799808,45.65,48.85,Industrials,Specialty Industrial Machinery
+JTEKY,33.175,33.175,,,,,3520229120,34.47,39.3,Consumer Cyclical,Auto Parts
+MOHCY,15.747,15.747,,,,,3548215296,17.16,19.82,Energy,Oil & Gas Refining & Marketing
+EFGXY,13.56,13.56,,,,,4059613696,24.68,26.21,Financial Services,Banks - Diversified
+NIPMY,21.5,21.5,,,,,4109497600,20.3,23.1,Consumer Defensive,Packaged Foods
+XEKT.MC,16.6,16.6,,,,,3434159104,16.6,17.4,Financial Services,Financial Conglomerates
+VIAAY,12.74,12.74,,,,,4274253568,13.6,16.78,Industrials,Airports & Air Services
+CUYTY,9.35,9.35,,,,,4547788800,8.76,9.27,Consumer Defensive,Grocery Stores
+ASOZY,57.67,57.67,,,,,4643028480,61.0,64.51,Technology,Software - Application
+FJTNY,11.42,11.42,,,,,4947428864,11.7,12.0,Communication Services,Broadcasting
+KRNTY,78.124,78.124,,,,,4986508800,82.26,85.15,Industrials,Specialty Industrial Machinery
+RICOY,8.75,8.75,,,,20,4980796928,8.83,9.35,Industrials,Business Equipment & Supplies
+VOPKY,45.23,45.23,,,,,5181508608,44.54,47.26,Energy,Oil & Gas Midstream
+ALTTU.PA,,,,,,,,,,,
+KYSEY,11.3,11.3,,,,,5410122752,9.32,11.3,Utilities,Utilities - Independent Power Producers
+SYANY,12.995,12.995,,,,,5574102528,16.63,19.71,Financial Services,Banks - Regional
+YORUY,36.8515,36.8515,,,,,5811624960,37.84,42.71,Consumer Cyclical,Auto Parts
+SCVPY,4.9,4.9,,,,,5880000000,5.8,6.32,Industrials,Conglomerates
+IGGHY,16.22,16.22,,,,10,6037527552,16.54,19.25,Financial Services,Capital Markets
+HWDJY,44.5,44.5,,,,,6042777600,43.92,48.89,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+DCYHY,27.15,27.15,,,,,6087048192,38.9,42.9,Financial Services,Insurance - Life
+HTCMY,58.5,58.5,,,,,6246267392,65.88,70.57,Industrials,Farm & Heavy Construction Machinery
+QMMM,119.4,119.4,,,,,6830437376,84.6,139.52,Communication Services,Advertising Agencies
+SHMUY,43.645,43.645,,,,,7382080512,71.4,76.1,Industrials,Engineering & Construction
+CHBAY,55.0,55.0,,,,,7842371584,62.72,67.43,Financial Services,Banks - Regional
+GIKLY,6.16,6.16,,,,,8383872000,6.11,6.51,Healthcare,Drug Manufacturers - General
+AVHNY,26.3,26.3,,,,,8607604736,26.9,29.05,Industrials,Engineering & Construction
+NGKSY,21.4,21.4,,,,,8745973760,21.49,22.96,Consumer Cyclical,Auto Parts
+SIETY,88.94,88.94,,,,,9525440512,95.6,102.95,Consumer Cyclical,Auto & Truck Dealerships
+BIO-B,310.7,310.7,,,,,9724547072,321.16,328.4,Healthcare,Medical Devices
+JCYGY,51.86,51.86,,,,,10435250176,52.53,57.4,Industrials,Conglomerates
+HLLGY,46.77,46.77,,,,,11032976384,46.12,47.21,Consumer Cyclical,Auto Parts
+LYTHF,13.25,13.25,,,,,13839591424,5.0,10.0,,
+TISCY,22.7,22.7,,,,,14804168704,25.55,27.13,Industrials,Engineering & Construction
+JPPHY,10.75,10.75,,,,,30345635840,11.3,12.9,Financial Services,Banks - Regional
+OSAGY,51.1,51.1,,,,,152914706432,,,Industrials,Electrical Equipment & Parts
+CGXYY,33.0,33.0,,,,,360835252224,30.88,37.45,Financial Services,Financial Conglomerates
+AERS.L,32.4,32.4,,,,19177,,30.6,34.2,,
+AMVOY,10.2,10.2,1,12.31,12.31,6310,,9.78,10.61,,
+EPOAY,24.858,24.858,1,20.0,20.0,83630,,24.82,24.87,,
+GENNQ,0.0001,0.0001,,,,,12219,,,Healthcare,Medical Care Facilities
+TRC.L,0.025,0.025,1,1.5,1.5,,375481,0.02,0.03,Consumer Cyclical,Restaurants
+OPTEY,0.042,0.042,1,1.0,1.0,9730,,0.0071,0.0419,Healthcare,Biotechnology
+ALMCP.PA,0.15,0.15,1,0.8,0.8,,4369075,,,Industrials,Specialty Industrial Machinery
+S247.L,,,,,,,,,,,
+FADL.L,65.0,65.0,1,259.5219,259.5219,,13150313,55.0,75.0,Technology,Software - Application
+LND.L,3.6,3.6,1,16.4,16.4,,13371209,,3.8,Basic Materials,Other Industrial Metals & Mining
+WHR.L,,,,,,,,,,,
+FN.TO,,,,,,,,,,,
+SNRBY,3.0,3.0,,,,,2309887488,3.25,10.0,Communication Services,Telecom Services
+VMD.TO,,,,,,,,,,,
+NLB.IL,36.7,36.7,2,22.5,22.5,15332,,36.4,36.7,Financial Services,Banks - Regional
+POMRY.PA,11.45,11.45,2,12.85,12.85,2130,,,,Consumer Defensive,Beverages - Wineries & Distilleries
+OKYO.L,,,,,,,,,,,
+HDLMY,54.19,54.19,3,59.46667,60.0,123330,,54.04,54.19,,
+ERAG.DE,,7.7,,,,8094,,7.64,7.74,,
+OSG,6.06,6.06,3,16.33333,15.0,863830,,6.06,6.42,Financial Services,Insurance - Specialty
+MRC,,,,,,,,,,,
+AGR.L,,,,,,,,,,,
+RIGD.IL,64.8,64.8,4,77.83,77.22,103885,,57.5,74.7,Energy,Oil & Gas Refining & Marketing
+DND.TO,4.17,4.17,4,5.75,5.75,,280224000,4.0,4.0,Technology,Software - Application
+OBCK.DE,67.0,67.0,7,87.28571,86.0,29691,,66.85,67.05,,
+SSL.TO,,,,,,,,,,,
+OPTU,1.89,1.89,15,2.38333,2.0,2627600,,1.8,1.92,Communication Services,Telecom Services
