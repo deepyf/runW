@@ -1,7 +1,7 @@
 T,P1,P2,O,T1,T2,V1,V2,V3,V4,C,S,I
-BETSF,0.0001,0.0001,,,,,,3362,3362,62,Financial Services,Capital Markets
+BETSF,0.0001,0.0001,,,,,,3337,3337,62,Financial Services,Capital Markets
 DCFCQ,0.0001,0.0001,,,,,,1305,1305,106,Industrials,Electrical Equipment & Parts
-ELOX,0.0001,0.0001,,,,30,30,731,731,314,Healthcare,Biotechnology
+ELOX,0.0001,0.0001,,,,31,31,731,731,314,Healthcare,Biotechnology
 TUEMQ,0.0001,0.0001,,,,,,576,576,594,Consumer Defensive,Discount Stores
 MOTS,0.0001,0.0001,,,,,,1337,1337,638,Healthcare,Medical Devices
 IONM,0.0005,0.0005,,,,,,223,223,1567,Healthcare,Medical Care Facilities
