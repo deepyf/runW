@@ -1,13 +1,13 @@
 T,P1,P2,O,T1,T2,V1,V2,V3,V4,C,S,I
-BETSF,0.0001,0.0001,,,,,,3102,3102,62,Financial Services,Capital Markets
+BETSF,0.0001,0.0001,,,,,,3099,3099,62,Financial Services,Capital Markets
 DCFCQ,0.0001,0.0001,,,,,,1305,1305,106,Industrials,Electrical Equipment & Parts
-ELOX,0.0001,0.0001,,,,31,31,731,731,314,Healthcare,Biotechnology
+ELOX,0.0001,0.0001,,,,31,31,729,729,314,Healthcare,Biotechnology
 TUEMQ,0.0001,0.0001,,,,,,442,442,594,Consumer Defensive,Discount Stores
-MOTS,0.0001,0.0001,,,,1552,1552,1550,1550,638,Healthcare,Medical Devices
+MOTS,0.0001,0.0001,,,,1552,1552,1514,1514,638,Healthcare,Medical Devices
 IONM,0.0005,0.0005,,,,,,223,223,1567,Healthcare,Medical Care Facilities
 SSUNF,0.0001,0.0001,,,,7000,7000,2941,2941,38754,Consumer Cyclical,Specialty Retail
 GSPE,0.0001,0.0001,,,,20475,20475,3734,3734,136048,Energy,Oil & Gas E&P
-ORNT.L,4.0,4.0,,,,,,695,695,400000,Communication Services,Telecom Services
+ORNT.L,4.0,4.0,,,,,,453,453,400000,Communication Services,Telecom Services
 NAUH,0.04,0.04,,,,4900,4900,1293,1293,988602,Consumer Defensive,Education & Training Services
 PROCF,0.0251,0.0251,,,,,,280,280,57827020,Healthcare,Drug Manufacturers - Specialty & Generic
 CO3A.DE,,,,,,,,,,,,
